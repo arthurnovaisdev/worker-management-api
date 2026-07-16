@@ -120,7 +120,3 @@ Para rodar os testes:
 - Validação de entrada com Bean Validation (`@Valid`, `@NotNull`, etc.)
 - Autenticação e autorização
 - Migração para banco de dados persistente (PostgreSQL/MySQL) em produção
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
